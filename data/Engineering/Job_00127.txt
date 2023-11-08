@@ -1,0 +1,4 @@
+Title: Principal FPGA Design
+Webindex: 69081099
+Company: Ceema Recruitment
+Description: We are currently seeking a Principal Engineer for FPGA Design for a leading Defence company. If you have previous experience in defence, military or aerospace and have experience in FPGA design and implementation (preferred in VHDL, Simulation, synthesis) etc then this may be the role for you. As the principal FPGA Designer you will be responsible for: oDesign of Xilinx FPGA devices (including SoC configurations using Power PC or ARM cores), in particular Virtex **** pro, **** and **** oDesign of Altera FPGA devices. oDesign of Safety related FPGA s and the verification of such devices Competence in the use of the following tools: oCAE Design tools (Xilinx EDK, Xilinx ISE, Xilinx XST, Mentor Graphics HDL Designer, Leonardo Spectrum, Precision Synthesis, ModelSim)
