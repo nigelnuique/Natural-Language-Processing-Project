@@ -1,0 +1,4 @@
+Title: SharePoint Developer Finance
+Webindex: 69931161
+Company: Verus Procurement Consultants Ltd
+Description: SharePoint Developer required for leading finance client who are working on a number of leading edge projects with large scale clients. The client has experienced continual growth and are looking to add to their team of skilled and experienced multidisciplined developers. As SharePoint Developer you will engaged in Requirements Gathering, SharePoint Development, Project Delivery and Support where applicable. You will have the opportunity to gain further training and development as part of the role also. To be the successful SharePoint Developer you will possess the following skills / experience: Net (ASP.NET, VB.NET, C, ADO.NET) SQL **** /**** XML and other open standards SQL **** /**** InfoPath SharePoint Portal Server **** and SharePoint 2010 SharePoint Best Practices Strong Analytical Working knowledge of agile working practices
